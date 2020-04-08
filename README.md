@@ -1,7 +1,7 @@
 # Curso de Introducción al SEO
 Archivos de práctica del Curso de Introducción al SEO.
 
-*primer_parrafo.md* --> Práctica sobre como escribir buenos párrafo.
+*primer_parrafo.md* --> Práctica sobre como escribir buenos párrafos.
 
 *release.html* --> Práctica sobre como estructurar la página de lanzamiento de un producto.
 
